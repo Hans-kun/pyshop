@@ -1,0 +1,2 @@
+Hello World.
+This is a practice application built for the purpose of learning how django admin panel, POST and GET actually works i created an ecommerce website that just POST what we have stored on the database for the user to see the buttons actually leads nowhere important and its just created just for the purpose of learning and practicing 
